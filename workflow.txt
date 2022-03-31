@@ -1,1 +1,7 @@
 this is the pratical to  study  how central workflow work.
+
+there are four types of git flow
+1) central workflow 
+2) feature workflow
+3) git workflow
+4) fork workflow 
